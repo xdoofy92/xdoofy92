@@ -1,8 +1,8 @@
 <h1 align="center">
-  Hola, soy Daniel Rodriguez 👋
+  Hola, soy Doofy 👋
 </h1>
 
-<h3 align="center">🎮 Creador de contenido · Desarrollador de herramientas para Windows</h3>
+<h3 align="center">🎮 Creador de contenido y Soluciones para Windows</h3>
 
 <p align="center">
   Bienvenido a mi GitHub 🚀
