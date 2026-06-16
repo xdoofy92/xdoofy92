@@ -21,5 +21,17 @@
 </p>
 
 <p align="center">
+  <a href="https://t.me/xdoofy92">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/xdoofy92">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://dsc.gg/dprojects">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
   🌐 <a href="https://xdoofy92.com">xdoofy92.com</a>
 </p>
